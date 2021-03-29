@@ -1,0 +1,17 @@
+.card {
+    width: 200px;
+    height: 400px;
+    font-size: 32px;
+    color: #27a055;
+    margin-bottom: 10px;
+    background-color: rgb(207, 23, 23);
+}
+
+div img {
+    width: 140px;
+    height: 100px;
+}
+
+.name {
+    color: rgb(75, 36, 192);
+}
